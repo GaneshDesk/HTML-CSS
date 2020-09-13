@@ -1,3 +1,2 @@
-# New-repo
-
-## Subheader
+# HTML-CSS
+This repo contain HTML & CSS templates
